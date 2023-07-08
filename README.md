@@ -1,9 +1,10 @@
 # 在线考试系统
+<p style="font-size: 18px">该系统使用java gui实现</p>
 
 ## 介绍
 <p style="font-size: 18px">本系统分为学生端和教师端，学生端实现了考试功能和查询成绩功能，教师端实现了添加题目、发布考试
 、结束考试、主观题评分和查询成绩功能</p>
-<p style="font-size: 18px">该系统使用java gui实现</p>
+
 
 ## 项目包介绍
 > MySql包:存放java对数据库进行操作的函数<br/>
